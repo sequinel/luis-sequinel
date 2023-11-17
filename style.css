@@ -1,8 +1,19 @@
 *{margin: 0;padding: 0;}
-h1{
-    background-color:rgb(57, 233, 13);
+header{
+    background-color:whitesmoke;
     padding: 1em;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
 }
 body{
-    background-color: red;
+    background-color: beige;
+    text-align: center;
+    
+}
+h3{
+    text-align: left;
+}
+h2{
+    text-align: left;
 }
